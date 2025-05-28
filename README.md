@@ -41,34 +41,52 @@ Chapter 3
 Design Layouts: Screen Shots of Mobile App / Webpage
    ![image](https://github.com/user-attachments/assets/682a7004-db25-49bc-b349-eda5ad90d9c1)
              
-Fig3.1: Login page                                          fig3.2: Procter profile creation
+Fig3.1: Login page                                         
+
+
+![image](https://github.com/user-attachments/assets/ec0cc743-c58f-49dd-a6d5-97387d2585dc)
+
+fig3.2: Procter profile creation
                                 
 
-                      
-Fig3.3: Group section                                          fig3.4: Chat page
+![image](https://github.com/user-attachments/assets/2672961a-a175-4937-90bf-59767f44d1b7)
+          
+Fig3.3: Group section                                          
 
+![image](https://github.com/user-attachments/assets/61255f72-973a-4397-a960-6f43f2e77f34)
 
+fig3.4: Chat page
 
+![image](https://github.com/user-attachments/assets/6b4d6441-95e2-4dc9-bbd8-b58977cd9d5d)
 
+Fig3.5: Procter dashboard                                 
 
+![image](https://github.com/user-attachments/assets/38565b00-5567-4104-86fd-aa640adf08b3)
 
-                           
-Fig3.5: Procter dashboard                                   fig3.6: Uploads page
+fig3.6: Uploads page
 
+![image](https://github.com/user-attachments/assets/9d14b2a3-dae7-45bc-b320-47af2cb9cc78)
+              
+Fig3.7: Peoples page                                
 
+![image](https://github.com/user-attachments/assets/9e8f8a82-7b64-4cbe-a894-191c0d7a0e32)
 
+fig3.8: Student profile page
 
+ ![image](https://github.com/user-attachments/assets/3c6a5203-39e1-40a7-9dba-6c9e0f1fc189)
                 
-Fig3.7: Peoples page                                  fig3.8: Student profile page
+Fig3.9: Group join page                                   
+
+![image](https://github.com/user-attachments/assets/84660742-4efd-4fd2-a59c-2c63894a01cb)
+
+fig3.10: Student dash board
+
+![image](https://github.com/user-attachments/assets/5791bc6d-8905-45ec-b9d5-3edfb5827bc2)
+
+Fig3.11: Document upload page                        
 
 
-
-
-
-                 
-Fig3.9: Group join page                                   fig3.10: Student dash board
-                    
-Fig3.11: Document upload page                        fig3.12: Student info page
+fig3.12: Student info page
 
 
 
