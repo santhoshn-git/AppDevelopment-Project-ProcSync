@@ -1,13 +1,12 @@
 # AppDevelopment-Project-ProcSync
-An App Development Project
-  Chapter 1  
+  # Chapter 1  
   Introduction
 
 The increasing adoption of digital tools in education has transformed the traditional classroom into a more dynamic and accessible environment. However, many existing platforms either lack the simplicity required for real-time communication or the structure needed for managing academic workflows. To address this gap, ProcSync has been developed as a role-based collaborative education app that blends the core features of classroom management systems like Google Classroom with the intuitive communication style of apps like WhatsApp.
 ProcSync empowers educators to create and manage virtual classrooms with ease, enabling them to share announcements, upload academic materials, and monitor student performance. Simultaneously, students are provided with a user-friendly interface to join classes, chat with peers and instructors, and submit academic information and assignments. The app emphasizes security, scalability, and role-based navigation, ensuring that teachers and students each access only the features relevant to their roles.
 Leveraging the Flutter framework for cross-platform development and Firebase for real-time database, authentication, and storage solutions, ProcSync offers a seamless, responsive, and secure user experience. By centralizing academic communication and resource sharing, the application aims to foster a more connected and productive digital learning ecosystem.
                                                   
- Chapter 2
+ # Chapter 2
  Hardware and Software Requirements 
 
 2.1 Hardware Requirements
@@ -37,7 +36,7 @@ Google Chrome / Mobile Emulator	For web-based or emulator testing of the app dur
 Git	Version control system for managing project changes and team collaboration.
 Postman (optional)	API testing tool to simulate and debug backend interactions if required.
 
-Chapter 3
+# Chapter 3
 Design Layouts: Screen Shots of Mobile App / Webpage
    ![image](https://github.com/user-attachments/assets/682a7004-db25-49bc-b349-eda5ad90d9c1)
              
@@ -85,18 +84,19 @@ fig3.10: Student dash board
 
 Fig3.11: Document upload page                        
 
+![image](https://github.com/user-attachments/assets/aa28739f-b6a2-4bcd-a1c6-bc1a7d0202d3)
 
 fig3.12: Student info page
 
+![image](https://github.com/user-attachments/assets/fc6f0739-b8b5-4f3a-9529-2ba77568aa59)
 
+fig3.13: Student personal details                     
 
+![image](https://github.com/user-attachments/assets/9db7ae0f-9ec2-4fac-8261-d95c3767036c)
 
-                    fig3.13: Student personal details                       fig3.14: Student family details                                                                                 
+fig3.14: Student family details           
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/2e7aa733-dc87-4311-8522-433f40092ed6)
  
 Fig3.15: Education updation page
 
@@ -105,33 +105,22 @@ Fig3.15: Education updation page
 
 
 
-
-Chapter 4
+# Chapter 4
 Database Table Screen shots
- 
-                                                  Fig 4.1:database table
- 
-                                                         Fig 4.2: database table
+![image](https://github.com/user-attachments/assets/e48038ba-c0c7-40dd-88f3-15c25a9a89d7)
 
+Fig 4.1:database table
  
+  ![image](https://github.com/user-attachments/assets/0aef26ce-7c97-48af-8c16-522415a849e1)
+
+Fig 4.2: database table
+
+ ![image](https://github.com/user-attachments/assets/be5a3924-3f2b-4b20-aae5-023e41777240)
+
 Fig 4.3: ER Diagram
 
 
-
-
-
-
-
-
-
-                                                        
-
-
-
-
-
-
-                                                               Chapter 5
+# Chapter 5
 5.1 Conclusion 
 ProcSync is a robust, user-centric educational application designed to bridge the gap between academic communication and structured classroom management. By combining features from traditional learning management systems with real-time messaging and document sharing, it creates a unified platform tailored for both teachers and students. Through secure Google Sign-In, real-time Firestore integration, and intuitive role-based navigation, the app ensures a smooth and secure experience for managing classrooms, sharing resources, and engaging in academic discussions.
 The successful implementation of Firebase technologies, along with Flutter’s cross-platform capabilities, showcases the potential of modern frameworks in creating scalable and responsive educational solutions. ProcSync not only simplifies administrative tasks for educators but also provides students with a seamless platform to interact, learn, and stay organized.
